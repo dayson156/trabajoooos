@@ -1,1 +1,2 @@
 trabajo
+git commit --amend
